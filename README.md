@@ -1,3 +1,4 @@
+![image url](https://github.com/Hemanth050/Sales-Profit-Analysis-Dashboard-Awesome-Chocolates/blob/07afa0ed32ca034f07594fb2974ee22540ca0cc9/Awesome%20Chocolate/Dashboard.png)
 📊 Sales & Profit Analysis Dashboard – Awesome Chocolates
 🔍 Objective
 Design an interactive Power BI dashboard to analyze and optimize sales, profits, costs, shipments, and performance by salesperson for a chocolate company across regions.
